@@ -26,7 +26,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.instagram.com/pnicacio_21/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pnicacio21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/pnicacio21/](https://www.linkedin.com/in/pedro-nicacio-7859a0256/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!-- Adicionando animação com CSS -->
